@@ -1,0 +1,2 @@
+#!/bin/sh
+python TestCases.py

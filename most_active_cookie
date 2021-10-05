@@ -1,0 +1,3 @@
+#!/bin/sh
+python Cookie.py $1 $2 $3
+python TestCases.py
